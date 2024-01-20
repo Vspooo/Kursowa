@@ -17,7 +17,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -28,7 +33,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705777943228</updated>
+      <workItem from="1705777944019" duration="312000" />
     </task>
+    <task id="LOCAL-00001" summary="додав файл курсова.txt">
+      <created>1705778149600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705778149600</updated>
+    </task>
+    <task id="LOCAL-00002" summary="додав файл курсова.txt пару юзерів">
+      <created>1705778205417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705778205417</updated>
+    </task>
+    <task id="LOCAL-00003" summary="додав loremipson">
+      <created>1705778257000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705778257000</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="додав файл курсова.txt" />
+    <MESSAGE value="додав файл курсова.txt пару юзерів" />
+    <MESSAGE value="додав loremipson" />
+    <option name="LAST_COMMIT_MESSAGE" value="додав loremipson" />
   </component>
 </project>
