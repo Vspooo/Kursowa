@@ -10,3 +10,5 @@ dffghmmmfghmlmkgh
 version 1
 
 version 2
+
+set other setting in ide
